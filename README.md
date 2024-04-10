@@ -1,2 +1,2 @@
-# madhu-carrear-webservice
+# madhu-careers-webservice
 a careear  website for madhu
